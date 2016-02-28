@@ -89,15 +89,15 @@ execution code):
 
 **Results**
 
--   [run\_analysis.R](https://github.com/brianhigh/smartphone-activity/blob/master/run_analysis.R) -
+-   [run\_analysis.R](https://github.com/Oltjona/GettingAndCleaningDataAssignment/blob/master/run_analysis.R) -
     The R code which performs all clean-up work
 
 -   Tidy\_means.txt - contains the final tidied output data.
 
--   [CodeBook.md](https://github.com/brianhigh/smartphone-activity/blob/master/CodeBook.md) -
+-   [CodeBook.md](https://github.com/Oltjona/GettingAndCleaningDataAssignment/blob/master/CodeBook.md) -
     Describes the variables, the data, and clean-up work performed
 
--   [README.md](https://github.com/brianhigh/smartphone-activity/blob/master/README.md) -
+-   [README.md](https://github.com/Oltjona/GettingAndCleaningDataAssignment/blob/master/README.md) -
     This document explains the project, files, and how they work
 
 **Running the script**
