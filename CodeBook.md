@@ -105,7 +105,7 @@ Read "features.txt" text file into *features* data frame
 
 importFeatures
 
-> 1.  Read text files (“X\_train.txt” and “X\_test.txt”) into data frames
+> 1\. Read text files (“X\_train.txt” and “X\_test.txt”) into data frames
     (train\_features and test\_features)
 
 > 2\. Remove all columns except mean() & std() columns as the assessment
@@ -121,7 +121,7 @@ Read text file ("activity\_labels.txt") into activities data frame
 
 importActivities
 
-> 1.  Read text files (“y\_train.txt” and “y\_test.txt”) into data frames
+> 1\. Read text files (“y\_train.txt” and “y\_test.txt”) into data frames
     (train\_ activities and test\_ activities)
 
 > 2\. Set activity labels as factor labels as the assessment requirement
